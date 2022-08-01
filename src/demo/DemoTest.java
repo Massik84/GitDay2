@@ -13,5 +13,9 @@ public class DemoTest {
 	public static void divide(int a, int b) {
 		System.out.println(a/b);
 	}
+	// display method
+	public static void display() {
+		System.out.println("updating");
+	}
 
 }
